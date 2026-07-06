@@ -19,7 +19,7 @@
 
 ## Current Direction
 
-- Cleaning up EDA coursework into a public `eda-projects` repository:
+- Maintaining cleaned public versions of EDA coursework in `eda-projects`:
   - Clock Tree Synthesis
   - Placement Legalization
   - ML-RCS Scheduling
