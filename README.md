@@ -37,6 +37,16 @@ Some repositories are coursework or teaching-language projects. They are present
 - **Firmware**: C/C++ with PlatformIO/Arduino, ESP32 / RP2040 / Raspberry Pi, MQTT, sensors, e-Paper
 - **Practices**: conventional commits, pytest with hardware mocks, documentation-first cleanup
 
+## Background
+
+Robotics has been my through-line since childhood: I started with LEGO in fourth grade
+and competed in WRO from sixth through eighth grade — earning an Open Category merit
+award at the national round — which led me into programming. In high school I built
+LabVIEW + myRIO warehouse robots — TIRT Automated Warehouse Robot merit award (2020),
+3rd place (2021) — and won the 18th National Technological Creativity Contest (2021).
+I later coached my alma mater's robotics team for skills competitions through my first
+three years of university.
+
 ## Contact
 
 lance930612@gmail.com
