@@ -19,12 +19,9 @@
 
 ## Current Direction
 
-- Maintaining cleaned public versions of EDA coursework in `eda-projects`:
-  - Clock Tree Synthesis
-  - Placement Legalization
-  - ML-RCS Scheduling
-- Learning physical design and EDA/CAD algorithms through the NYCU Electronics graduate-school track.
-- Keeping embedded/IoT projects as evidence of practical engineering, testing, and documentation habits.
+- Studying physical design and EDA/CAD algorithms as a zero-year M.S. student at NYCU Institute of Electronics.
+- Actively maintaining my IoT lineup — epaper-home-display, esp32-hydracup, pico-paper-clock, print-filament-tracker — with tagged releases, host-side tests, and CI.
+- Next up: extending eda-projects with reproducible experiment flows, and a sanitized reproduction write-up of BEVPlace++ (LiDAR place recognition).
 
 ## Coursework Note
 
