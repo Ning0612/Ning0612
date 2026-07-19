@@ -1,3 +1,5 @@
+![My desk: epaper-home-display, pico-paper-clock, and esp32-hydracup running live, with each project's web dashboard on screen behind them](assets/desk-banner.jpg)
+
 # Hi, I'm Ning
 
 **EDA/CAD algorithms engineer in training** - I am currently focusing on physical design and algorithmic coursework, with embedded systems projects that show end-to-end engineering discipline.
