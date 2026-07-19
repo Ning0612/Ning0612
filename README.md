@@ -21,7 +21,7 @@
 
 - Studying physical design and EDA/CAD algorithms as a zero-year M.S. student at NYCU Institute of Electronics.
 - Actively maintaining my IoT lineup — epaper-home-display, esp32-hydracup, pico-paper-clock, print-filament-tracker — with tagged releases, host-side tests, and CI.
-- Next up: extending eda-projects with reproducible experiment flows, and a sanitized reproduction write-up of BEVPlace++ (LiDAR place recognition).
+- Next up: extending eda-projects with reproducible experiment flows.
 
 ## Coursework Note
 
