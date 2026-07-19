@@ -1,5 +1,3 @@
-![My desk: epaper-home-display, pico-paper-clock, and esp32-hydracup running live, with each project's web dashboard on screen behind them](assets/desk-banner.jpg)
-
 # Hi, I'm Ning
 
 **EDA/CAD algorithms engineer in training** - I am currently focusing on physical design and algorithmic coursework, with embedded systems projects that show end-to-end engineering discipline.
@@ -8,6 +6,12 @@
 - Zero-year M.S. student / summer entrant, Institute of Electronics, National Yang Ming Chiao Tung University
 - CADathlon contestant at IEEE/ACM ICCAD 2025 (International Conference on Computer-Aided Design)
 - Based in Hsinchu, Taiwan
+
+<p align="center">
+  <img src="assets/desk-banner.jpg" alt="My desk, live: pico-paper-clock, epaper-home-display, and esp32-hydracup, with each project's web dashboard on the screens behind them" width="100%">
+  <br>
+  <sub>On my desk right now — <a href="https://github.com/Ning0612/pico-paper-clock">pico-paper-clock</a> · <a href="https://github.com/Ning0612/epaper-home-display">epaper-home-display</a> · <a href="https://github.com/Ning0612/esp32-hydracup">esp32-hydracup</a>, each running live with its own web dashboard</sub>
+</p>
 
 ## Featured
 
