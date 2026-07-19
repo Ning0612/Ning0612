@@ -13,8 +13,8 @@
 | [eda-projects](https://github.com/Ning0612/eda-projects) | Cleaned public versions of EDA coursework: clock tree synthesis, placement legalization, and ML-RCS scheduling. Benchmark files and official course materials are not redistributed. |
 | [sd-compiler](https://github.com/Ning0612/sd-compiler) | Complete compiler pipeline for a C-like teaching language: flex/yacc -> semantic analysis -> Java assembly code generation. |
 | [epaper-home-display](https://github.com/Ning0612/epaper-home-display) | 9-coroutine asyncio service on RPi Zero 2W; dirty-region partial refresh for e-Paper; unit-testable hardware abstraction. |
-| [esp32-hydracup](https://github.com/Ning0612/esp32-hydracup) | 6-state drink-detection FSM on an HX711 load cell; native host-side tests in CI; FreeRTOS-based control runtime. |
 | [pico-paper-clock](https://github.com/Ning0612/pico-paper-clock) | Standalone MicroPython desk clock on a 264KB-RAM Pico W: memory-conscious firmware, host-side unit tests in CI, and packaged releases with firmware, enclosure CAD, and a Windows deployment tool. |
+| [esp32-hydracup](https://github.com/Ning0612/esp32-hydracup) | 6-state drink-detection FSM on an HX711 load cell; native host-side tests in CI; FreeRTOS-based control runtime. |
 | [print-filament-tracker](https://github.com/Ning0612/print-filament-tracker) | Shipped desktop app with Windows/macOS packaging and Bambu Cloud integration notes. |
 
 ## Current Direction
