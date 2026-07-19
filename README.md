@@ -4,6 +4,7 @@
 
 - B.S. in Computer Science and Information Engineering, National Taiwan University of Science and Technology
 - Zero-year M.S. student / summer entrant, Institute of Electronics, National Yang Ming Chiao Tung University
+- CADathlon contestant at IEEE/ACM ICCAD 2025 (International Conference on Computer-Aided Design)
 - Based in Hsinchu, Taiwan
 
 ## Featured
